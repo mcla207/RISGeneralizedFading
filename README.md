@@ -1,5 +1,3 @@
-# [Paper title]
-
 # Exact Statistics and Tight Approximations for RIS-Assisted Communications in Generalized Fading Environments
 
 [![DOI](https://zenodo.org/badge/1451847058.svg)](https://doi.org/10.5281/zenodo.24093227)
